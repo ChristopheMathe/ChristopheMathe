@@ -1,3 +1,3 @@
-Hi, I am Christophe Mathé, currently a freelance python developper. 
+Hi, I am Christophe Mathé. 
 
 You can contact me at this address: christophe.mathe77@outlook.fr
